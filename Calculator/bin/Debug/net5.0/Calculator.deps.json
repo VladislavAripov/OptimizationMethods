@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Calculator/1.0.0": {
+        "dependencies": {
+          "DichotomyMethod": "1.0.0",
+          "FibonacciMethod": "1.0.0",
+          "GoldenRatioMethod": "1.0.0"
+        },
+        "runtime": {
+          "Calculator.dll": {}
+        }
+      },
+      "DichotomyMethod/1.0.0": {
+        "runtime": {
+          "DichotomyMethod.dll": {}
+        }
+      },
+      "FibonacciMethod/1.0.0": {
+        "runtime": {
+          "FibonacciMethod.dll": {}
+        }
+      },
+      "GoldenRatioMethod/1.0.0": {
+        "runtime": {
+          "GoldenRatioMethod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DichotomyMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FibonacciMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GoldenRatioMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

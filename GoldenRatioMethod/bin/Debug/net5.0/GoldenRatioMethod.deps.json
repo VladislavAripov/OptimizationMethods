@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GoldenRatioMethod/1.0.0": {
+        "runtime": {
+          "GoldenRatioMethod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GoldenRatioMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\vlada\Desktop\Optimization methods\Programs\Calculator\GoldenRatioMethod\bin\Debug\net5.0\GoldenRatioMethod.deps.json
+C:\Users\vlada\Desktop\Optimization methods\Programs\Calculator\GoldenRatioMethod\bin\Debug\net5.0\GoldenRatioMethod.dll
+C:\Users\vlada\Desktop\Optimization methods\Programs\Calculator\GoldenRatioMethod\bin\Debug\net5.0\ref\GoldenRatioMethod.dll
+C:\Users\vlada\Desktop\Optimization methods\Programs\Calculator\GoldenRatioMethod\bin\Debug\net5.0\GoldenRatioMethod.pdb
+C:\Users\vlada\Desktop\Optimization methods\Programs\Calculator\GoldenRatioMethod\obj\Debug\net5.0\GoldenRatioMethod.csproj.AssemblyReference.cache
+C:\Users\vlada\Desktop\Optimization methods\Programs\Calculator\GoldenRatioMethod\obj\Debug\net5.0\GoldenRatioMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlada\Desktop\Optimization methods\Programs\Calculator\GoldenRatioMethod\obj\Debug\net5.0\GoldenRatioMethod.AssemblyInfoInputs.cache
+C:\Users\vlada\Desktop\Optimization methods\Programs\Calculator\GoldenRatioMethod\obj\Debug\net5.0\GoldenRatioMethod.AssemblyInfo.cs
+C:\Users\vlada\Desktop\Optimization methods\Programs\Calculator\GoldenRatioMethod\obj\Debug\net5.0\GoldenRatioMethod.csproj.CoreCompileInputs.cache
+C:\Users\vlada\Desktop\Optimization methods\Programs\Calculator\GoldenRatioMethod\obj\Debug\net5.0\GoldenRatioMethod.dll
+C:\Users\vlada\Desktop\Optimization methods\Programs\Calculator\GoldenRatioMethod\obj\Debug\net5.0\ref\GoldenRatioMethod.dll
+C:\Users\vlada\Desktop\Optimization methods\Programs\Calculator\GoldenRatioMethod\obj\Debug\net5.0\GoldenRatioMethod.pdb
